@@ -1,2 +1,2 @@
 # Animation-project-1st
-3D animation of table and chair
+3D animation of table, chair and egg
